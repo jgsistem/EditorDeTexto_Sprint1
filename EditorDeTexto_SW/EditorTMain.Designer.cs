@@ -195,8 +195,7 @@
             // BarraName
             // 
             this.BarraName.Name = "BarraName";
-            this.BarraName.Size = new System.Drawing.Size(10, 17);
-            this.BarraName.Text = ".";
+            this.BarraName.Size = new System.Drawing.Size(0, 17);
             // 
             // txtEditex
             // 
